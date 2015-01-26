@@ -4,7 +4,6 @@ int main(){
 
 
 	printf("zzz");
-
 	return 0;
 
 
